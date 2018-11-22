@@ -1,0 +1,7 @@
+[package]
+name = "vfsproxy"
+version = "0.1.0"
+authors = ["Partha Susarla <mail@spartha.org>"]
+
+[dependencies]
+env_logger = "0.3"
